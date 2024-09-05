@@ -44,15 +44,15 @@
 
 .cover {
     position: relative;
-    margin-top: 98px;
-    background-image: url(/Users/viktoriasoboleva/Desktop/dev/ono-tebe-nado/images/cover.jpg);
+    margin-top: 93px;
+    background-image: url(../images/cover.jpg);
     background-size: cover;
     background-position: center;
     color: #FFF;
-    padding: 164px 50px 51px; 
+    padding: 165px 50px 50px; 
     display: flex;
     flex-direction: column;
-    gap: 126px;   
+    gap: 127px;   
 }
 
 .overlay {
@@ -71,7 +71,7 @@
     font-size: 100px;
     text-transform: uppercase;
     display: grid;
-    row-gap: 9px;
+    row-gap: 1px;
     letter-spacing: 0.3em;     
 }
 
@@ -93,10 +93,10 @@
 }
 .aligned-text_center {
     text-align: center;
+    margin-top: 9px;
 }
 
 .aligned-text_right {
-    margin-top: -6px;
     text-align: right;
 }
 
@@ -180,15 +180,15 @@
 }
 
 .card_type_film {
-    background-image: url(/Users/viktoriasoboleva/Desktop/dev/ono-tebe-nado/images/card-lot-01.jpg);
+    background-image: url(../images/card-lot-01.jpg);
 }
 
 .card_type_book {
-    background-image: url(/Users/viktoriasoboleva/Desktop/dev/ono-tebe-nado/images/card-lot-02.jpg);
+    background-image: url(../images/card-lot-02.jpg);
 }
 
 .card_type_picture {
-    background-image: url(/Users/viktoriasoboleva/Desktop/dev/ono-tebe-nado/images/card-lot-03.jpg);
+    background-image: url(../images/card-lot-03.jpg);
 }
 
 .card__title {
